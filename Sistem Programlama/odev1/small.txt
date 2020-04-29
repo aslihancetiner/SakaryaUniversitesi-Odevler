@@ -1,0 +1,5 @@
+0 0 100 100 Urgosa_the_Healing_Shaman
+2 0 100 500 Adam_the_Warrior
+3 0 400 450 Catherine_the_Great
+4 0 45 400 Chad_the_Priest
+4 1 300 600 James_the_Lightning_Lord

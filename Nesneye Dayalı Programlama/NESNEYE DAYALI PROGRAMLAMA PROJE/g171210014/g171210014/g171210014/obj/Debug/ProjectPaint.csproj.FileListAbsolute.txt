@@ -1,0 +1,10 @@
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\bin\Debug\ProjectPaint.exe.config
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\bin\Debug\ProjectPaint.exe
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\bin\Debug\ProjectPaint.pdb
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.csprojResolveAssemblyReference.cache
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.Form1.resources
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.Properties.Resources.resources
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.csproj.GenerateResource.cache
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.csproj.CoreCompileInputs.cache
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.exe
+c:\users\hayal\source\repos\ProjectPaint\ProjectPaint\obj\Debug\ProjectPaint.pdb

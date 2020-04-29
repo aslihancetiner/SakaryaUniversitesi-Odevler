@@ -1,0 +1,30 @@
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\Desktop\G171210014\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA ALTTAN 3. ÖDEV\G171210014_odev3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

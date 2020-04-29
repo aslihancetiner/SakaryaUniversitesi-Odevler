@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C2B93A9-CB22-4A62-9CFA-5C7606E1FCE7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VTYS_PROJE</RootNamespace>
+    <AssemblyName>VTYS_PROJE</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="City.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="City.Designer.cs">
+      <DependentUpon>City.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film.Designer.cs">
+      <DependentUpon>Film.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Native.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Native.Designer.cs">
+      <DependentUpon>Native.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Country.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Country.Designer.cs">
+      <DependentUpon>Country.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oyuncular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oyuncular.Designer.cs">
+      <DependentUpon>Oyuncular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon.Designer.cs">
+      <DependentUpon>Salon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinemaYerleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinemaYerleri.Designer.cs">
+      <DependentUpon>SinemaYerleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket.Designer.cs">
+      <DependentUpon>Ticket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Town.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Town.Designer.cs">
+      <DependentUpon>Town.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yorumlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yorumlar.Designer.cs">
+      <DependentUpon>Yorumlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yönetmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetmen.Designer.cs">
+      <DependentUpon>Yönetmen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cinema.Designer.cs">
+      <DependentUpon>Cinema.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="City.resx">
+      <DependentUpon>City.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film.resx">
+      <DependentUpon>Film.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Native.resx">
+      <DependentUpon>Native.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Country.resx">
+      <DependentUpon>Country.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oyuncular.resx">
+      <DependentUpon>Oyuncular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Salon.resx">
+      <DependentUpon>Salon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SinemaYerleri.resx">
+      <DependentUpon>SinemaYerleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ticket.resx">
+      <DependentUpon>Ticket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Town.resx">
+      <DependentUpon>Town.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yorumlar.resx">
+      <DependentUpon>Yorumlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yönetmen.resx">
+      <DependentUpon>Yönetmen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cinema.resx">
+      <DependentUpon>Cinema.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HarfSıralamaÖdev", "HarfSıralamaÖdev\HarfSıralamaÖdev.vcxproj", "{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Debug|x64.Build.0 = Debug|x64
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Debug|x86.Build.0 = Debug|Win32
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Release|x64.ActiveCfg = Release|x64
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Release|x64.Build.0 = Release|x64
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Release|x86.ActiveCfg = Release|Win32
+		{4CA61584-11BB-4FED-B6EC-AB772A6B6FC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BA4B7E-3D20-472A-BBE0-6401B0EEABE4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,45 @@
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe.config
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.pdb
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Properties.Resources.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.exe
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.pdb
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.anasayfa.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Category.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Native.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Country.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Yönetmen.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Oyuncular.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Film.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Yorumlar.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Cinema.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.City.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Town.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.SinemaYerleri.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Salon.resources
+C:\Users\lenovo\source\repos\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Ticket.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe.config
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.pdb
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.anasayfa.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Category.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.City.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Film.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Native.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Country.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Oyuncular.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Salon.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.SinemaYerleri.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Ticket.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Town.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Yorumlar.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Yönetmen.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Cinema.resources
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.exe
+C:\Users\lenovo\Desktop\ödevler\Veritabanı Yönetim Sistemleri\Proje\g171210014\VTYS_PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.pdb

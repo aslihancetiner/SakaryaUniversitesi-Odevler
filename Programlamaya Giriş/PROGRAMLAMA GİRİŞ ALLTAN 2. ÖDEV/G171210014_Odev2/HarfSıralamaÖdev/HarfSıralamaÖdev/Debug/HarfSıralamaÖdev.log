@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\lenovo\desktop\g171210014_odev2\harfsıralamaödev\harfsıralamaödev\kaynak.cpp(28): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  HarfSıralamaÖdev.vcxproj -> C:\Users\Lenovo\Desktop\G171210014_Odev2\HarfSıralamaÖdev\Debug\HarfSıralamaÖdev.exe

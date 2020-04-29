@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\telefon rehberi.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\telefon rehberi.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\telefon rehberi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\lenovo\Desktop\ödevler\nesneye dayalı programlama\NESNEYE DAYALI PROGRAMLAMA 2. ÖDEV\G171210014\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
